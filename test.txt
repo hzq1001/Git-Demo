@@ -1,3 +1,7 @@
 dsfdsfsafddsa
 sfksajflksa
+<<<<<<< HEAD
 teast
+=======
+test
+>>>>>>> origin/testBranch
